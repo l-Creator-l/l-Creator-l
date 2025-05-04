@@ -1,53 +1,9 @@
-# Hi! 👋
+Hi! 👋
 
-## I'm a **full-stack web developer** and **software engineer** passionate about creating responsive and user-friendly applications using the latest technologies and frameworks.
+I'm a full-stack web developer and software engineer with a strong focus on building high-performance applications using modern technologies. My work involves creating web applications, developing software for multiple platforms, automating workflows and integrating APIs.
 
-## Some of the skills and tools I use:
+Expert in React, Next.js, Redux-Toolkit, TypeScript, MUI, SCSS, GSAP. Strong experience with Node.js, Express.js, MongoDB, MSSQL, Puppeteer, Axios, REST APIs. Proficient in Webpack, Git, MERN stack and API deployment. Skilled in React Native and Electron. Familiar with Tensorflow. Experienced in UI/UX with Figma, Photoshop, Adobe Illustrator, CorelDRAW, Inkscape.
 
-### Frontend:
-- **React**
-- **Redux-Toolkit**
-- **Redux-Thunk**
-- **React-Hook-Form**
-- **Material UI**
-- **Next.js**
-- **SCSS**
-- **HTML5**
-- **CSS3**
-- **SVG**
-- **JavaScript**
-- **TypeScript**
-- **Ajax**
-- **Electron**
+One of my standout projects is [Light Transmissions](https://light-transmissions.com), a multi-user system with dynamically generated vector graphics, built on React, Node.js, and MongoDB.  
 
-### Backend:
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **MSSQL**
-- **Axios**
-- **REST API**
-
-### DevOps:
-- **Webpack**
-- **npm**
-- **Git**
-- **MERN stack deployment**
-
-### Design:
-- **Pixel Perfect**
-- **Figma**
-- **Photoshop**
-- **Inkscape**
-- **CorelDRAW**
-- **Adobe Illustrator**
-
-### Other Skills:
-- **Vector graphics**
-- **Handlebars**
-- **Three**
-- **React Native**
-
-## Also I am working with web-developing, desktop, scripts, parsers and APIs. My biggest passion is building projects on React and Node.js. I have my own project - multi-user system with generated vector graphics based on React, Node.js, and MongoDB (check it out - https://light-transmissions.com).
-
-## Always eager to learn and improve my skills. Feel free to explore my GitHub profile to see some of my projects and repositories. If you have any questions or suggestions, don't hesitate to reach out. Thanks for visiting! 😊
+Always focused on improving my skills and delivering high-quality products. Feel free to check out my GitHub repositories, and don’t hesitate to reach out if you have questions or collaboration ideas!
